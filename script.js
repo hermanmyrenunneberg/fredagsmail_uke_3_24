@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', function () {
             // Display the events in Oslo this weekend
             eventsDiv.innerHTML = '<p>Correct! Here are the happenings in Oslo this weekend:</p><ul>' +
                 '<li>' +
-                '01' +
+            
                 '<br>' +
                 'Fest på CB' +
                 '<br>' +
@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 'Når: Åpningsfesten er lørdag 20. januar' +
                 '</li>' +
                 '<li>' +
-                '02' +
+                
                 '<br>' +
                 'Ny vinbar på Løkka' +
                 '<br>' +
@@ -32,7 +32,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 'Når: Åpner fredag 19. januar' +
                 '</li>' +
                 '<li>' +
-                '03' +
+                
                 '<br>' +
                 'Vernissasje' +
                 '<br>' +
@@ -43,7 +43,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 'Når: Fredag 19. januar kl. 18–22 (utstillingen står til 4. februar)' +
                 '</li>' +
                 '<li>' +
-                '04' +
+                
                 '<br>' +
                 'Fransk matfilm' +
                 '<br>' +
@@ -54,7 +54,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 'Når: Flere visninger frem til 24. januar' +
                 '</li>' +
                 '<li>' +
-                '05' +
+                
                 '<br>' +
                 'Fjorden baby' +
                 '<br>' +
@@ -65,7 +65,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 'Når: 20. januar' +
                 '</li>' +
                 '<li>' +
-                '06' +
+               
                 '<br>' +
                 'Marked, baby!' +
                 '<br>' +
