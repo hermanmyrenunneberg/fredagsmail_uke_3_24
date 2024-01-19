@@ -1,0 +1,44 @@
+/* Basic Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+
+header h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#clues p {
+    font-family: 'Courier New', monospace;
+    background: #fff;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-left: 5px solid #333;
+}
+
+
+
+#combination-form {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#combination-input {
+    font-size: 2em;
+    text-align: center;
+    margin-right: 10px;
+}
+
+#events {
+    margin-top: 20px;
+    border-top: 1px solid #ddd;
+    padding-top: 20px;
+}

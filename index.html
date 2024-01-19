@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Oslo Weekend Events Lock Puzzle</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+    <h1>Can you open the lock using these clues?</h1>
+</header>
+<main>
+    <div id="clues">
+        <p>682 - One digit is right and in its place</p>
+        <p>614 - One digit is right but in the wrong place</p>
+        <p>206 - Two digits are right but both are in the wrong place</p>
+        <p>738 - All digits are wrong</p>
+        <p>380 - One digit is right but in the wrong place</p>
+    </div>
+    
+    <form id="combination-form">
+        <input type="text" id="combination-input" maxlength="3" placeholder="???">
+        <button type="submit">Unlock</button>
+    </form>
+    <div id="events"></div>
+</main>
+<script src="script.js"></script>
+</body>
+</html>
